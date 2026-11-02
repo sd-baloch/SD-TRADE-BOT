@@ -1,0 +1,6 @@
+{
+  "name": "SD BALOCH QX BOT",
+  "description": "Professional AI-Powered Real-Time Financial Market Analysis and Trading Signal Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
